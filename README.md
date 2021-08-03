@@ -7,7 +7,7 @@ The Collatz Conjecture is an unsolved problems in mathematics
 - As you repeat this process, eventually, the number will result to a 4,2,1 loop.
 
 ### What makes it unsolved?
-- So, we know how it works for the number 7. Does this process result to 1 for all numbers
+- So, we know how it works for the number 7. Does this process result to 1 for all numbers?
 - This is a tricky question because numbers are infinite
 - If we test this on 1 trillion numbers and all of the numbers eventually come down to one, it doesn't mean all numbers follow this rule.
 - 1 trillion is an infidesimally small percentage of infinity (yeah).
