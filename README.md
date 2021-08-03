@@ -27,6 +27,6 @@ The collatz conjucture might be considered a waste of time to study but cool vis
   </p>
 
 
-##references
+## references
 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnMwIJTeSJ5f7yvqoxLJLZ0l5gXh-AiP4eTg&usqp=CAU
 - https://preview.redd.it/2y8lmayzmau41.png?width=2252&format=png&auto=webp&s=e6380fb129ba95a3c3960d01dfabb06f239e0f14
